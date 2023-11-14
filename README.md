@@ -1,1 +1,1 @@
-Numpy kütüphanesindeki önemli komutları anlattım.
+Numpy kütüphanesindeki önemli komutlar
