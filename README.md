@@ -1,1 +1,1 @@
-# Numpy-Dersleri
+Numpy kütüphanesindeki önemli komutları anlattım.
